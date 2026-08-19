@@ -68,10 +68,6 @@ Wireshark-network-traffic-analysis/
 │
 ├── pcap/
 │
-├── docs/
-│
-├── filters/
-│
 └── README.md
 ```
 
