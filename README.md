@@ -1,4 +1,4 @@
-# Wireshark Network Traffic Analysis
+# Wireshark Network Traffic Investigation
 
 This project is a small network traffic investigation lab built around a real PCAP from Malware-Traffic-Analysis.net.
 
